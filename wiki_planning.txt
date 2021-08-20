@@ -1,0 +1,49 @@
+Items
+Biomes (available)
+  - Basalt Deltas Cooled
+  - Basalt Deltas Ex
+  - Crimson Forest S
+  - Crimson Forest Z
+  - Cursed Forest
+  - Infernal Dunes
+  - Nether Wart Valley
+  - Polluted Dunes
+  - Purified Dunes
+  - Quartz Flats
+  - Quartz Hills
+  - Soul Sand Valley D
+  - Toxic Heap
+  - Toxic Springs
+  - Volactic Heap
+  - Warped Forest D
+  - Warped Plains
+  - Wraped Forest
+  - Warped Forest A
+  - Z Nether Caverns
+Biomes (Unavailable)
+  - Crystal Flats
+  - Dark Caverns
+  - Nether Wastes M
+  - Quartz Spikes
+  - Toxic Heap Edge
+Structures
+  - Forbidden Castle (3815 35 2555)
+  - The Sanctum (-364 32 -91)
+  - Power Plant (4941 53 4067)
+  - Pipelines (4171 81 4482) (4877 55 4028)
+  - Phantom Nest -1593 92 1492)
+  - The Lab (-2100 45 3192)
+  - Piglin Village (-653 65 205)
+  - Kitchen (-1276 41 1015)
+  - Quartz Arena (-980 47 735)
+  - Quartz Watchtower (-1172 50 901)
+  - Quartz Dungeon/Road (-1172 50 901)
+  - Hovering Inferno Arena (253 71 -179)
+Achievements
+Mobs
+  - Hovering Inferno
+  - Restless Spirit
+  - Torte
+  - Sentry
+  - Desert Blaze
+  - 

@@ -1,0 +1,6 @@
+{
+    "image" : "example_biome.png",
+    "description" : "This biome has lots of blocks in it. The blocks come together to form terrain.",
+    "structures_available" : [],
+    "mobs_available" : ["Salmon", "Cats"]
+}
