@@ -1,0 +1,15 @@
+{
+    "name" : "Blazing Hatchet",
+    "description" : "N/A",
+    "damage" : 9,
+    "aspeed" : 1,
+    "effect" : [
+        "When a mob is hit, the axe generates an explosion and knocks back the mob - along with any nearby mobs - a large distance. The mob is also lit on fire.",
+        "When mining logs with the Blazing Hatchet, the logs will be \"smelted\" and turn into charcoal."
+    ],
+    "found" : "Dropped from a Pyro in the Forbidden Castle.",
+    "development" : "",
+    "faq" : [
+        "Yes, it can be upgraded to netherite."
+    ]
+}
